@@ -9,7 +9,7 @@ Pursuing B.Tech at IIT GOA in Computer Science and Engineering Department
 # Education
 
 |  Academic Year | Standard | School Name   |
-| ------------ | ------------- | ---------- |
+| :------------: | :-------------: | :----------: |
 | 2020 - 2021 | 10th | Cambridge Wings School |
 | 2022 - 2023 | 12th | Cambridge Wings School |
 ---
